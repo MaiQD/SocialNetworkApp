@@ -1,4 +1,5 @@
 Dotnet cli
+
     dotnet new sln
     dotnet new webapi -n API
     dotnet new classlib -n Application
@@ -17,3 +18,8 @@ Dotnet cli
     Migration
         Enable-Migrations -ProjectName .\Presistence -StartUpProjectName .\API
         add-migration InitialDB 
+
+Npm cli
+
+    npx create-react-app client-app --use-npm --template typescript
+    npm install axios
