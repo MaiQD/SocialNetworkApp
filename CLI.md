@@ -24,3 +24,5 @@ Npm cli
     npx create-react-app client-app --use-npm --template typescript
     npm install axios
     npm install semantic-ui-react semantic-ui-css
+    npm install uuid
+    npm i --save-dev @types/uuid
