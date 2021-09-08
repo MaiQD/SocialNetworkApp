@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Domain;
 
-namespace Presistence
+namespace Persistence
 {
     public class Seed
     {
